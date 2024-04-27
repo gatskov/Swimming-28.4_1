@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/VSCode/exemple4/Swimming/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Swimming.dir/includes_CXX.rsp -g -o CMakeFiles\\Swimming.dir\\src\\main.cpp.obj -c D:\\VSCode\\exemple4\\Swimming\\src\\main.cpp",
+  "file": "D:/VSCode/exemple4/Swimming/src/main.cpp",
+  "output": "CMakeFiles/Swimming.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/VSCode/exemple4/Swimming/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/Swimming.dir/includes_CXX.rsp -g -o CMakeFiles\\Swimming.dir\\src\\swim.cpp.obj -c D:\\VSCode\\exemple4\\Swimming\\src\\swim.cpp",
+  "file": "D:/VSCode/exemple4/Swimming/src/swim.cpp",
+  "output": "CMakeFiles/Swimming.dir/src/swim.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/sarse/VSCodeProject/VSCode/exemple4/Swimming/cmake-build-debug/CMakeFiles/Swimming.dir
+C:/Users/sarse/VSCodeProject/VSCode/exemple4/Swimming/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/sarse/VSCodeProject/VSCode/exemple4/Swimming/cmake-build-debug/CMakeFiles/rebuild_cache.dir

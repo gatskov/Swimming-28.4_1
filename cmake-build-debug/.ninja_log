@@ -1,0 +1,14 @@
+# ninja log v5
+0	695	7355049498713490	CMakeFiles/Swimming.dir/src/main.cpp.obj	10e409a2a93a241a
+6	999	7355049501735404	CMakeFiles/Swimming.dir/src/swim.cpp.obj	95be14189e432a07
+1000	1508	7355049506795673	C:/Users/sarse/VSCodeProject/VSCode/exemple4/Swimming/bin/Swimming.exe	9dcb21a753e6f69b
+9	649	7355051078527711	CMakeFiles/Swimming.dir/src/main.cpp.obj	10e409a2a93a241a
+4	922	7355051081240451	CMakeFiles/Swimming.dir/src/swim.cpp.obj	95be14189e432a07
+922	1388	7355051085865506	C:/Users/sarse/VSCodeProject/VSCode/exemple4/Swimming/bin/Swimming.exe	9dcb21a753e6f69b
+5	920	7355051864147870	CMakeFiles/Swimming.dir/src/swim.cpp.obj	95be14189e432a07
+921	1163	7355051866546761	C:/Users/sarse/VSCodeProject/VSCode/exemple4/Swimming/bin/Swimming.exe	9dcb21a753e6f69b
+4	950	7355052013180035	CMakeFiles/Swimming.dir/src/swim.cpp.obj	95be14189e432a07
+951	1285	7355052016509869	C:/Users/sarse/VSCodeProject/VSCode/exemple4/Swimming/bin/Swimming.exe	9dcb21a753e6f69b
+5	581	7355052630534863	CMakeFiles/Swimming.dir/src/main.cpp.obj	10e409a2a93a241a
+10	896	7355052633676787	CMakeFiles/Swimming.dir/src/swim.cpp.obj	95be14189e432a07
+896	1358	7355052638267173	C:/Users/sarse/VSCodeProject/VSCode/exemple4/Swimming/bin/Swimming.exe	9dcb21a753e6f69b
